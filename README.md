@@ -7,5 +7,5 @@ Medical imaging (pediatric chest X-ray) is used as the common domain, with a foc
 
 | Task | Week | Data | Model | Highlights |
 |---|---|---|---|---|
-| [Image Classification](./image-classification) | 3 | Chest X-ray Pneumonia | ConvNeXt-Tiny | Transfer learning, sensitivity/specificity, Grad-CAM → shortcut learning found |
+| [Image Classification](./image-classification) | 5 | Chest X-ray Pneumonia | ConvNeXt-Tiny | Transfer learning, sensitivity/specificity, Grad-CAM → shortcut learning found |
 | Image Segmentation | 6 | Chest X-ray Pneumonia | chest-x-ray-basic (U-Net) | *coming soon* — lung masking to fix Week 3's shortcut problem |
