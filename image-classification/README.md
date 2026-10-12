@@ -1,6 +1,6 @@
 # Image Classification — Pneumonia Detection on Pediatric Chest X-rays
 
-> **Week 3** · 비전 AI와 비즈니스 · Transfer learning with Hugging Face `Trainer` + Grad-CAM (XAI)
+> **Week 5** · 비전 AI와 비즈니스 · Transfer learning with Hugging Face `Trainer` + Grad-CAM (XAI)
 
 ## TL;DR
 - Fine-tuned **ConvNeXt-Tiny** (ImageNet-pretrained) to classify chest X-rays as **NORMAL / PNEUMONIA**.
