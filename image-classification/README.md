@@ -53,7 +53,7 @@
 As-is, this model should **not** be used for diagnosis. Its value lies in the **workflow**: XAI caught an untrustworthy model that metrics alone would have shipped. With lung-region cropping, multi-site external validation and radiologist review of heatmaps, it could serve as a **triage assistant** that prioritizes suspected pneumonia cases, with the physician making the final call.
 
 ## Next steps
-- [ ] Lung segmentation → train on lung-only regions → check whether Grad-CAM moves into the lung fields (**Week 6**)
+- [x] Lung segmentation → train on lung-only regions → check whether Grad-CAM moves into the lung fields (**Week 6**, see [image-segmentation](../image-segmentation))
 - [ ] Class-weighted loss / oversampling, data augmentation, threshold tuning
 - [ ] External validation on adult / multi-site data
 

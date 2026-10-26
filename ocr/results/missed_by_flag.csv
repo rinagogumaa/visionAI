@@ -1,0 +1,22 @@
+﻿doc,cause,test,gt_val,gt_flag,ocr_row
+41,행 묶기/파싱 실패,Urea,104.0,H,Urea 01:26PM Unit Bio Ref Interval
+268,행 묶기/파싱 실패,MPV,10.2,H,MPV
+476,인식 실패,H.C.T,40.1,L,
+113,행 묶기/파싱 실패,R.B.C Count,2.8,L,R.B.C Count : 2:8 million/ul 4.5-5.5
+268,행 묶기/파싱 실패,HB (HAEMOGLOBIN),9.9,L,HB (HAEMOGLOBIN
+268,인식 실패,EOSINOPHILS,2.0,N,EOSINOPHILS D % 1-5
+268,인식 실패,BASOPHILS,0.0,N,
+268,인식 실패,RDW,14.8,N,
+345,인식 실패,UNCONJUGATED (I.D. Bilirubin),0.64,N,
+476,인식 실패,Monocytes,2.0,N,
+113,행 묶기/파싱 실패,Grant Medical Foundation Ruby Hall Clinic Wanowarie,59.0,N,Grant Medical Foundation QUALITY OF CINES
+113,행 묶기/파싱 실패,Absolute Monocyte Count,0.84,N,Absolute Neutrophil Count : 8:15 x103cells/ul 2-7
+249,행 묶기/파싱 실패,{#} MPV,9.4,N,{ # 1 MPV 9.4 FL 6.78-13.46 IL
+251,행 묶기/파싱 실패,FREE T4,1.38,N,FREE T3 FREE T4 1.088 (2-0-1.4) 1:38 (0.093-1.7)
+268,행 묶기/파싱 실패,PCT,0.22,N,PCT
+345,행 묶기/파싱 실패,SERUM CREATININE,0.81,N,SERUM CREATININE 0.81 mg/ 0.5 - 1.2
+345,행 묶기/파싱 실패,SERUM URIC ACID,4.65,N,SERUM URIC ACID 4.65 mg/ 2.7 - 6.5
+480,행 묶기/파싱 실패,Neutrophils,66.0,N,Neutrophils
+480,행 묶기/파싱 실패,Lymphocytes,24.0,N,Lymphocytes
+480,행 묶기/파싱 실패,Eosinophils,4.0,N,Eosinophills
+480,행 묶기/파싱 실패,Monocytes,6.0,N,Monocytes

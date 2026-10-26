@@ -1,0 +1,35 @@
+﻿type,doc,test,gt_val,gt_flag,ocr_val,ocr_flag,conf,printed,review
+판정 불가,345,SODIUM,139.2,N,139.2,,0.24946540594100952,,"low_conf,no_flag"
+판정 불가,345,CHLORIDE,104.6,N,104.6,,0.455382764339447,,"low_conf,no_flag"
+판정 불가,345,BILIRUBIN TOTAL,0.79,N,0.79,,0.516268253326416,,no_flag
+판정 불가,249,Haematocrit (PCV/HCT),27.2,L,27.2,,0.5696321129798889,L,no_flag
+판정 불가,249,Mean Corpuscular Hb (M.C.H.),28.5,N,33.5,,0.10159998387098312,,"low_conf,no_flag"
+판정 불가,249,Mean Corpuscular Hb Conc (M.C.H.C.),33.5,N,33.5,,0.10159998387098312,,"low_conf,no_flag"
+플래그 틀림,249,Eosinophils,0.7,L,73.92,N,0.3353427052497864,,low_conf
+플래그 틀림,480,Total WBC Count,9200.0,N,92200.0,H,0.6148884892463684,,critical
+판정 불가,480,"Absolute Eosinophils Count, AEC",368.0,N,398000.0,,0.2622571885585785,,"low_conf,no_flag"
+플래그 틀림,113,Absolute Neutrophil Count,8.15,H,0.21,N,0.604221761226654,,
+판정 불가,113,Absolute Basophil Count,0.05,N,0.05,,0.24592262506484985,,"low_conf,no_flag"
+판정 불가,113,MCHC,32.4,N,32.4,,0.2986561954021454,,"low_conf,no_flag"
+판정 불가,251,FREE T3,2.18,N,1.088,,0.18683482706546783,,"low_conf,no_flag"
+판정 불가,251,TSH,1.137,N,1.137,,0.3990963399410248,,"low_conf,no_flag"
+판정 불가,228,Phosphorus,3.36,N,3.36,,0.16020996868610382,,"low_conf,no_flag"
+판정 불가,228,Sodium,136.0,N,136.0,,0.16188518702983856,,"low_conf,no_flag"
+판정 불가,228,Chloride,105.4,N,98.0,,0.17881092429161072,,"low_conf,no_flag"
+판정 불가,406,GLOBULIN,1.7,L,1.7,,0.5257939696311951,,no_flag
+판정 불가,469,UNCONJUGATED (I.D.Bilirubin),0.7,N,0.7,,0.3026438355445862,,"low_conf,no_flag"
+판정 불가,469,S.G.O.T (AST),28.0,N,28.0,,0.2714407742023468,,"low_conf,no_flag"
+플래그 틀림,41,Blood Urea Nitrogen,48.4,H,48.4,N,0.7418999075889587,,
+플래그 틀림,41,Creatinine,8.51,H,8.51,N,0.6827707886695862,,
+플래그 틀림,41,Sodium,112.5,L,1851.0,H,0.04564008489251137,,"low_conf,critical,range_suspect"
+플래그 틀림,41,Potassium,3.94,N,3.94,L,0.5100854635238647,,"critical,range_suspect"
+플래그 틀림,41,Chloride,86.7,L,86.7,H,0.3219856321811676,,"low_conf,critical,range_suspect"
+플래그 틀림,41,Uric Acid,6.7,H,6.7,L,0.3527981638908386,,"low_conf,critical"
+플래그 틀림,41,Calcium (Total),7.31,L,7.31,H,0.3769929111003876,,low_conf
+플래그 틀림,268,TLC,19800.0,H,1980.0,L,0.4360629916191101,,"low_conf,critical"
+판정 불가,47,Total Leukocyte Count,10700.0,N,10700.0,,0.4764997959136963,,"low_conf,no_flag"
+판정 불가,47,Basophils,0.5,N,0.5,,0.6334964632987976,,no_flag
+판정 불가,47,Total Red Blood Count,5.12,N,5.12,,0.337980180978775,,"low_conf,no_flag"
+판정 불가,47,HCV,36.6,N,36.6,,0.8129640817642212,,no_flag
+판정 불가,476,Total R.B.C,4.42,L,4.42,,0.5284038782119751,,no_flag
+판정 불가,476,Platelet Count,1.76,N,1.76,,0.21346181631088257,,"low_conf,no_flag"
